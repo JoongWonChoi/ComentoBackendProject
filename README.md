@@ -15,3 +15,7 @@
 ### 프로젝트 빌드와 빌드 도구(maven)
 * Link : <https://jwccoding.tistory.com/47>
 -----
+## 2주차 과제 :: 인터페이스 가이드 작성(프론트엔드 분야와 협업 준비하기)
+### (1). HTTP에 대한 이해 - HTTP란?
+* Link : <https://jwccoding.tistory.com/48>
+-----
