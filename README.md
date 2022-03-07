@@ -19,3 +19,6 @@
 ### (1). HTTP에 대한 이해 - HTTP란?
 * Link : <https://jwccoding.tistory.com/48>
 -----
+### (2). HTTP에 대한 이해 - HTTP메시지, HTTP메서드 + 브라우저란?
+* Link : <https://jwccoding.tistory.com/48>
+-----
