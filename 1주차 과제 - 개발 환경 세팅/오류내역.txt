@@ -1,0 +1,19 @@
+<log4j.xml오류>
+Cannot find DTD 'file:///C:/Users/qweas/Desktop/java-spring/settingweb/src/main/resources/log4j.dtd'.
+Create the DTD file or configure an XML catalog for this DTD.
+
+<,web.xml오류>
+cvc-id.3: A field of identity constraint 'web-app-servlet-name-uniqueness' matched element 'web-
+ app', but this element does not have a simple type.
+
+DTO와 VO 차이
+DAO와 Repository 차이
+DTO, VO, Entity?
+
+
+<cannot find com.jwc.vo.MovieVO>
+mybaits-config.xml에서 MovieVO가 아닌 movieVO로 되어있어 인식하지 못했던 것 같다.(소문자 대문자)
+
+<movie_name 프로퍼티 매핑 에러>
+JSP파일에서 movie.movie_name이라는 프로퍼티를 불러올 수 없었음.
+=>VO에서 getter setter작성 시 값을 불러오는 getter에서 네이밍을 원하는 속성에 맞춰 작성했어야함. 기존에는 getMovieName 으로 했는데, DB필드명과 VO속성 명과 JSP에서 다룰 필드명을 모두 맞춰줘야하기에 getMovie_name 으로 수정!
