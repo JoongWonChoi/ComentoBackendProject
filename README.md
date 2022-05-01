@@ -20,10 +20,10 @@
 * Link : <https://jwccoding.tistory.com/48>
 -----
 ### (2). HTTP에 대한 이해 - HTTP메시지, HTTP메서드 + 브라우저란?
-* Link : <https://jwccoding.tistory.com/48>
+* Link : <https://jwccoding.tistory.com/49>
 -----
 ### (3). HTTP에 대한 이해 - REST와 REST API란?
-* Link : <https://jwccoding.tistory.com/49>
+* Link : <https://jwccoding.tistory.com/50>
 -----
 ### (4). SW 활용률 API 가이드 작성해보기(pdf, hwp)
 * Link : <https://github.com/JoongWonChoi/ComentoBackendProject/tree/main/2%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20-%20SW%ED%99%9C%EC%9A%A9%EB%A5%A0%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EC%9E%91%EC%84%B1>
